@@ -16,8 +16,8 @@ Mi objetivo es continuar aprendiendo de manera eficiente y actualizarme constant
 - Creación de Software básico administrativo para la gestión de inventario.
 
 ### c. Universidad Tecmilenio
-- Ingeniería en Desarrollo de Software.
-- Certificaciones en:
+- Cursando la Carrera de Ingeniería en Desarrollo de Software.
+- Certificaciones en curso de:
   - Desarrollo de aplicaciones móviles.
   - Administración de Tecnologías de la Información.
   - Infraestructura de Big Data.
